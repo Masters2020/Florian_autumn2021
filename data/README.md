@@ -1,1 +1,1 @@
-
+This folder includes all the data used for the project. They were seperated into youtube and reddit folders to avoid confusion. In each folder you can find the data in different version as csv files. Each folder has a Readme file explaining the different csv files in greater detail.
