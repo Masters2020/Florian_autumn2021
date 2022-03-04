@@ -30,3 +30,6 @@ Additonally some of the resulting files from the code are uploaded as well and a
 
 11_classification: this script uses the files from script **08**, **09** or **10** to create the classification results by using a lookup mechanism between the dataset (reddit) used to classify another dataset (youtube).
 
+## **Folders**
+
+The repository also includes three folders which include some of the resulting files from the notebooks. Each of the folders includes the files and a seperate Readme which explains in more detail the uploaded files and their relation to the notebooks and their use.
