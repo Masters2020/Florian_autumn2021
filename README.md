@@ -1,5 +1,3 @@
-# Florian_autumn2021
-
 This repository includes all the code used for the Thesis 'Using entity-action-target relationships to classify conspiratorial youtube videos'.
 
 To summarize, the thesis used a conspiracy corpus, in this case conspiratorial reddit forums to extract relations between mentioned entities actions they perform and the target of the action. These triplets are then used to compare them to similar relations in youtube videos to determine if they are conspiratorial.
